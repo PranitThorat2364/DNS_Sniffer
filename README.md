@@ -37,6 +37,8 @@ Run the script with Python, providing optional arguments as needed:
      sudo python3 dns_sniffer.py [options]
 
 
+You can run without options also
+
 ### Options
 
 - `-i, --iface`: Specify the interface (e.g., Wi-Fi or Ethernet) to capture DNS traffic.
