@@ -34,7 +34,7 @@ Mr.Root DNS Sniffer is a Python script for monitoring DNS traffic, capturing DNS
 
 Run the script with Python, providing optional arguments as needed:
 
-python3 dns_sniffer.py [options]
+     sudo python3 dns_sniffer.py [options]
 
 
 ### Options
