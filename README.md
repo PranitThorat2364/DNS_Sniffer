@@ -23,11 +23,11 @@ Mr.Root DNS Sniffer is a Python script for monitoring DNS traffic, capturing DNS
 
 1. Clone the repository:
 
-git clone https://github.com/MrRoot2364/DNS_Sniffer.git
+     git clone https://github.com/MrRoot2364/DNS_Sniffer.git
 
 2. Install the required Python libraries:
 
-pip install -r requirements.txt
+     pip install -r requirements.txt
 
 
 ## Usage
