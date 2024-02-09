@@ -79,7 +79,7 @@ def init_db(databasePath):
 
 def print_banner():
     fig = Figlet(font='big')
-    banner = fig.renderText('Mr.Root DNS Sniffer')
+    banner = fig.renderText('DNS Sniffer       :-By Pranit Thorat')
     print(colored(banner, 'green'))  # Change 'green' to any other color you prefer
 
 def print_output():
