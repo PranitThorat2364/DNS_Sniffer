@@ -23,10 +23,13 @@ DNS Sniffer is a Python script for monitoring DNS traffic, capturing DNS queries
 
 1. Clone the repository:
 
-     git clone https://github.com/PranitThorat2364/DNS_Sniffer.git && 
-     cd DNS_Sniffer
+     git clone https://github.com/PranitThorat2364/DNS_Sniffer.git
+     
+2. Go to Directory
 
-3. Install the required Python libraries:
+     cd DNS_Sniffer
+   
+4. Install the required Python libraries:
 
      pip install -r requirements.txt
 
