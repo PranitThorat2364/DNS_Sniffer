@@ -80,7 +80,7 @@ def init_db(databasePath):
 def print_banner():
     fig = Figlet(font='big')
     banner = fig.renderText('DNS Sniffer       :-By Pranit Thorat')
-    print(colored(banner, 'green'))  # Change 'green' to any other color you prefer
+    print(colored(banner, 'green')) 
 
 def print_output():
     for ip_src, queries in queries_liste.items():
@@ -107,7 +107,7 @@ if __name__ == "__main__":
     (options, args) = parser.parse_args()
 
     iface = options.iface
-    iface_type = options.iface_type.lower()  # Convert to lowercase for consistency
+    iface_type = options.iface_type.lower() 
     quiet = options.quiet
     databasePath = options.databasePath
 
