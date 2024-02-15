@@ -33,6 +33,14 @@ DNS Sniffer is a Python script for monitoring DNS traffic, capturing DNS queries
 
      sudo pip install -r requirements.txt
 
+   Or Manually install dependencies by following command
+
+     i)     pip install scapy
+
+     ii)   pip install termcolor
+
+     iii) pip install pyfiglet
+
 
 ## Usage
 
